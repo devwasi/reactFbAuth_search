@@ -42,6 +42,7 @@ const searchBarHandler = ()=>{
         <TextField onChange={(e)=>setSearchInput(e.target.value)} />
         
       </Stack>
+      
   
 
 {
