@@ -38,11 +38,7 @@ export const RouteList = [
     element: <Login />,
     name: "Login"
   },
-  {
-    path: "/search",
-    element: <SearchBar />,
-    name: "SearchBar"
-  },
+ 
   {
     path: "*",
     element: <ErrorRoute />,
